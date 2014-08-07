@@ -1,0 +1,51 @@
+﻿<navigation:Page x:Class="SubastAutos.paginas.comprar" 
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           mc:Ignorable="d"
+           xmlns:navigation="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Navigation"
+                 xmlns:viblendEditors="clr-namespace:VIBlend.Silverlight.Controls;assembly=VIBlend.Silverlight.Editors"
+           d:DesignWidth="720" d:DesignHeight="480"
+           Title="comprar Page" Unloaded="Page_Unloaded">
+    <Grid x:Name="Autos" Style="{StaticResource fondoContenedorGrid}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="369*" />
+            <ColumnDefinition Width="271*" />
+        </Grid.ColumnDefinitions>
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="29,10,0,0" x:Name="textBlock1" Text="Placa:" VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="77,10,0,0" x:Name="tblPlaca" Text="" VerticalAlignment="Top" Width="170" />
+        <TextBlock Height="142" HorizontalAlignment="Left" Margin="49,291,0,0"  VerticalAlignment="Top" Width="343">Comentario</TextBlock>
+        <ScrollViewer Height="112" HorizontalAlignment="Left" Margin="49,312,0,0"  VerticalAlignment="Top" Width="343" Opacity="0.8" Background="#FF212126">
+            <TextBlock Height="auto" HorizontalAlignment="Left" Margin="0" x:Name="Comentario" Text="Comentario" VerticalAlignment="Top" Width="318" TextWrapping="Wrap" Foreground="#FFF09609"/>
+        </ScrollViewer>
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="30,10,0,0" x:Name="textBlock4" Text="Detalles:" VerticalAlignment="Top" Grid.Column="1" />
+        <viblendEditors:ListBox Height="303" Margin="25,50,8,0" x:Name="DetallesDelAuto" VerticalAlignment="Top" Grid.Column="1"  >
+            <viblendEditors:ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="2,4,2,0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <TextBlock Text="{Binding Tema}"  FontSize="13" FontWeight="Bold" />
+                        <TextBlock Width="240" Height="auto" TextWrapping="Wrap" Text="{Binding Descripcion}" FontSize="12" FontWeight="Bold" Foreground="#FFF09609"  Grid.Row="2" />
+
+                    </Grid>
+
+
+                </DataTemplate>
+            </viblendEditors:ListBox.ItemTemplate>
+        </viblendEditors:ListBox>
+        <viblendEditors:Button Content="Participar en la subasta>>" FontSize="20" FontWeight="Bold" Height="59" HorizontalAlignment="Center" Width="277" x:Name="btnSubastar" Margin="28,421,0,0" VerticalAlignment="Top" Grid.Column="1" Background="#FF508050"  Click="btnSubastar_Click"></viblendEditors:Button>
+        <viblendEditors:ListBox Height="220" HorizontalAlignment="Left" Margin="54,50,0,0" Name="ListaDeImagenes" VerticalAlignment="Top" Width="290" SelectionChanged="ListaDeImagenes_SelectionChanged"  ItemsSource="{Binding}">
+            <viblendEditors:ListBox.ItemTemplate >
+                <DataTemplate>
+                    <Image Width="250" Height="210" Source="{Binding Foto,Converter={StaticResource Convertidor}}" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+                    </Image>
+                </DataTemplate>
+            </viblendEditors:ListBox.ItemTemplate>
+        </viblendEditors:ListBox>
+    </Grid>
+</navigation:Page>

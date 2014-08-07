@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8080/Remoting.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/SubastAutos.ModeloDeDatos" />
+  <xs:element name="Reportar">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="idSubasta" type="xs:int" />
+        <xs:element minOccurs="0" name="idVehiculo" type="xs:int" />
+        <xs:element minOccurs="0" name="loggin" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="fechaPropuesta" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="montoSugerido" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ReportarResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Salir">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Registrarse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RegistrarseResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ModificarSubasta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="idSubasta" type="xs:int" />
+        <xs:element minOccurs="0" name="idVehiculo" type="xs:int" />
+        <xs:element minOccurs="0" name="loggin" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="fechaPropuesta" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="montoSugerido" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ModificarSubastaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/SubastAutos.ModeloDeDatos" minOccurs="0" name="ModificarSubastaResult" nillable="true" type="q1:Subasta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="VehiculosDeSubastaActual">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="VehiculosDeSubastaActualResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/SubastAutos.ModeloDeDatos" minOccurs="0" name="VehiculosDeSubastaActualResult" nillable="true" type="q2:Subasta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ActualizarListaDeAutosParaSubasta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/SubastAutos.ModeloDeDatos" minOccurs="0" name="s" nillable="true" type="q3:Subasta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

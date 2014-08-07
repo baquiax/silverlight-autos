@@ -1,0 +1,31 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SubastAutos" EntryPointType="SubastAutos.App" RuntimeVersion="4.0.50826.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="SubastAutos" Source="SubastAutos.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.DataAnnotations" Source="System.ComponentModel.DataAnnotations.dll" />
+    <AssemblyPart x:Name="System.ServiceModel.Extensions" Source="System.ServiceModel.Extensions.dll" />
+    <AssemblyPart x:Name="System.ServiceModel.PollingDuplex" Source="System.ServiceModel.PollingDuplex.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Data" Source="System.Windows.Controls.Data.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Data.Input" Source="System.Windows.Controls.Data.Input.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls" Source="System.Windows.Controls.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Navigation" Source="System.Windows.Controls.Navigation.dll" />
+    <AssemblyPart x:Name="System.Windows.Data" Source="System.Windows.Data.dll" />
+    <AssemblyPart x:Name="VIBlend.Silverlight.DataGrid" Source="VIBlend.Silverlight.DataGrid.dll" />
+    <AssemblyPart x:Name="VIBlend.Silverlight.Editors" Source="VIBlend.Silverlight.Editors.dll" />
+    <AssemblyPart x:Name="VIBlend.Silverlight.Extensions" Source="VIBlend.Silverlight.Extensions.dll" />
+    <AssemblyPart x:Name="VIBlend.Silverlight.Menu" Source="VIBlend.Silverlight.Menu.dll" />
+    <AssemblyPart x:Name="VIBlend.Silverlight.NavigationPanes" Source="VIBlend.Silverlight.NavigationPanes.dll" />
+    <AssemblyPart x:Name="VIBlend.Silverlight.RibbonBar" Source="VIBlend.Silverlight.RibbonBar.dll" />
+    <AssemblyPart x:Name="VIBlend.Silverlight.TabControl" Source="VIBlend.Silverlight.TabControl.dll" />
+    <AssemblyPart x:Name="VIBlend.Silverlight.TreeView" Source="VIBlend.Silverlight.TreeView.dll" />
+    <AssemblyPart x:Name="VIBlend.Silverlight.Utilities" Source="VIBlend.Silverlight.Utilities.dll" />
+    <AssemblyPart x:Name="System.Xml.Linq" Source="System.Xml.Linq.dll" />
+    <AssemblyPart Source="es/System.ComponentModel.DataAnnotations.resources.dll" />
+    <AssemblyPart Source="es/System.ServiceModel.Extensions.resources.dll" />
+    <AssemblyPart Source="es/System.ServiceModel.PollingDuplex.resources.dll" />
+    <AssemblyPart Source="es/System.Windows.Controls.resources.dll" />
+    <AssemblyPart Source="es/System.Windows.Controls.Data.resources.dll" />
+    <AssemblyPart Source="es/System.Windows.Controls.Data.Input.resources.dll" />
+    <AssemblyPart Source="es/System.Windows.Controls.Navigation.resources.dll" />
+    <AssemblyPart Source="es/System.Windows.Data.resources.dll" />
+  </Deployment.Parts>
+</Deployment>

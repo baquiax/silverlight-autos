@@ -1,0 +1,134 @@
+﻿<navigation:Page x:Class="SubastAutos.paginas.autosDisponibles" 
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           mc:Ignorable="d"
+           
+           xmlns:navigation="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Navigation"
+           d:DesignWidth="727" d:DesignHeight="680"
+           Title="autosDisponibles Page" xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk"
+                 xmlns:viblendEditors="clr-namespace:VIBlend.Silverlight.Controls;assembly=VIBlend.Silverlight.Editors" xmlns:viblendNavigationPanes="clr-namespace:VIBlend.Silverlight.Controls;assembly=VIBlend.Silverlight.NavigationPanes" Unloaded="Page_Unloaded">
+        <Canvas Style="{StaticResource fondoContenedorCanvas}" Margin="0" Height ="790">
+        <StackPanel Orientation="Vertical" Width="727" Height="680">
+            <viblendNavigationPanes:NavigationPane    Height="auto" Name="navigationPane1" Width="630" 
+                                               VerticalAlignment="Top" >
+                <viblendNavigationPanes:NavigationPaneItem IsExpanded="True" BorderBrush ="Black" >
+                    <viblendNavigationPanes:NavigationPaneItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock>Busqueda</TextBlock>
+                        </StackPanel>
+                    </viblendNavigationPanes:NavigationPaneItem.Header>
+                    <Grid Height="217" HorizontalAlignment="Center"  Canvas.Left="50" Background="#FF555151" Opacity="0.9" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="auto"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="60*" />
+                        </Grid.RowDefinitions>
+
+                        <StackPanel Grid.Column="0" Grid.Row="0" Orientation="Horizontal" Width="315" >
+                            <TextBlock VerticalAlignment="Top" HorizontalAlignment="Left" Margin="5,0,0,0">Departamento:</TextBlock>
+                            <viblendEditors:ComboBox Height="23" PromptText="Elige un departamento." Margin="10,0,0,0" HorizontalAlignment="Right" VerticalAlignment="Center" Width="190" x:Name="cbxDepto" Foreground="#FF0F0F0F" SelectionChanged="cbxDepto_SelectionChanged" />
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" Orientation="Horizontal" Width="315" >
+                            <TextBlock Margin="10,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" >Municipio</TextBlock>
+                            <viblendEditors:ComboBox Height="23" PromptText="Elige un municipio" Margin="41,0,0,0" Width="190" HorizontalAlignment="Right" VerticalAlignment="Center" x:Name="cbxMunicipio" Foreground="#FF191919" />
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="0" Grid.Row="1" Orientation="Horizontal" Width="315" >
+                            <TextBlock  Margin="5,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">Marca</TextBlock>
+                            <viblendEditors:TextBox Watermark="Indisio de la marca" Height="23" Margin="65,0,0,0" Width="190" HorizontalAlignment="Right" x:Name="txtMarca"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" Grid.Row="1" Orientation="Horizontal" Width="315">
+                            <TextBlock Margin="10,0,0,0" Grid.Column="1" Grid.Row="1">Combustible</TextBlock>
+                            <viblendEditors:ComboBox PromptText="Seleccione un combustible" Height="23"  Grid.Column="1" Grid.Row="1" Width="190"  HorizontalAlignment="Right" Margin="25,0,0,0" x:Name="cbxCombustible" Foreground="#FF202020" />
+                        </StackPanel>
+                        <StackPanel Grid.Column="0" Grid.Row="2" Orientation="Horizontal">
+                            <TextBlock Margin="5,0,0,0">Año desde:</TextBlock>
+                            <viblendEditors:ComboBox PromptText="Año" Margin="10,0,0,0" x:Name="cbxAñoDesde" Height="23" Foreground="#FF191515" />
+                            <TextBlock Margin="10,0,0,0">hasta</TextBlock>
+                            <viblendEditors:ComboBox PromptText="Año" Margin="10,0,0,0" x:Name="cbxAñoHasta" Height="23" Foreground="#FF121212" />
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" Grid.Row="2" Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0">Kilometros desde</TextBlock>
+                            <viblendEditors:NumberEditor Margin="5,0,0,0" x:Name="txtKilometrosDesde" Width="70" MaxLength="10" Maximum="999999999" Height="23" Minimum="0" Value="0.00" DefaultToolTipMessage="Si hubiese corrido esto, ¿Por qué te interesaría?" />
+                            <TextBlock Margin="10,0,0,0">hasta</TextBlock>
+                            <viblendEditors:NumberEditor Margin="5,0,0,0" x:Name="txtKilometrosHasta" Width="70" MaxLength="10" Height="23" DefaultToolTipMessage="Si hubiese corrido esto, ¿Por qué te interesaría?" Maximum="999999999" Minimum="0" Value="0.00" />
+                        </StackPanel>
+                        <StackPanel Grid.Column="0" Grid.Row="3" Orientation="Horizontal" Background="Transparent">
+                            <TextBlock Margin="5,0,0,0">Precio desde:</TextBlock>
+                            <viblendEditors:NumberEditor Margin="10,0,0,0" x:Name="txtPrecioDesde" Width="70" MaxLength="10" Height="23" DefaultToolTipMessage="No crees que este precio es absurdo?" Value="0.00" Minimum="0" Maximum="999999999" />
+                            <TextBlock Margin="15,0,0,0">hasta</TextBlock>
+                            <viblendEditors:NumberEditor Margin="5,0,0,0" x:Name="txtPrecioHasta" Width="70" MaxLength="10" Height="23" DefaultToolTipMessage="No crees que este precio es absurdo?" Maximum="999999999" Minimum="0" Value="0.00" />
+                        </StackPanel>
+
+                        <TextBlock HorizontalAlignment="Right" Grid.Column="0" Grid.Row="4"> Descripcion:</TextBlock>
+                        <viblendEditors:TextBox x:Name="txtComentario" Width="291" TextWrapping="Wrap" Height="54" VerticalScrollBarVisibility="Auto" Grid.Column="1" Grid.Row="4" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,0,0,0" Watermark="Alguna otra referencia." />
+
+                        <StackPanel Grid.Column="1" Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Center" ></StackPanel>
+                    </Grid>
+                </viblendNavigationPanes:NavigationPaneItem>
+
+            </viblendNavigationPanes:NavigationPane>
+            <viblendEditors:Button Width="120" Height="30" FontSize="20" HorizontalAlignment="Left" Background="#FF92D47D" Margin="50,0,0,0" Click="Button_Click">Buscar >></viblendEditors:Button>
+            <viblendEditors:ListBox SearchMemberPath="placa" ColumnsWidth="310" ItemsSource="{Binding}"  x:Name="listaDeAutos" Height="382" HorizontalAlignment="Center" ColumnsCount="3" VerticalAlignment="Top" Width="567" Background="#FF46B731" Margin="0,10,0,0">
+                <viblendEditors:ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <TextBlock FontWeight="Bold" FontSize="18" Grid.Column="0" Grid.ColumnSpan="3" Margin="0,4,4,4" Text="{Binding placa}"></TextBlock>
+                            <TextBlock Grid.Row="1" Foreground="#FF000000" Text="Combustible:" />
+                            <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding combustible}"></TextBlock>
+                            <TextBlock Grid.Row="2" Foreground="#FF000000" Text="Marca:" />
+                            <TextBlock Grid.Row="2" Grid.Column="1" Text="{Binding marca}"></TextBlock>
+                            <TextBlock Grid.Row="3" Foreground="#FF000000" Text="Año:" />
+                            <TextBlock Grid.Row="3" Grid.Column="1" Text="{Binding año}"></TextBlock>
+                            <TextBlock Grid.Row="4" Foreground="#FF000000" Text="Modelo:" />
+                            <TextBlock Grid.Row="4" Grid.Column="1" FontWeight="Bold" Text="{Binding modelo}"></TextBlock>
+                            <TextBlock Grid.Row="5" Foreground="#FF000000" Text="Kilometraje:" />
+                            <TextBlock Grid.Row="5" Grid.Column="1" FontWeight="Bold" Text="{Binding kilometraje}"></TextBlock>
+                            <TextBlock Grid.Row="6" Foreground="#FF000000" Text="Color:" />
+                            <TextBlock Grid.Row="6" Grid.Column="1" FontWeight="Bold" Text="{Binding color}"></TextBlock>
+                            <TextBlock Grid.Row="7" Foreground="#FF000000" Text="Tipo de Vehiculo:" />
+                            <TextBlock Grid.Row="7" Grid.Column="1" FontWeight="Bold" Text="{Binding tipoVehiculo}"></TextBlock>
+                            <Grid Grid.Column="2" Margin="4" Grid.Row="1" Grid.RowSpan="8">
+                                <Border BorderThickness="3,0,0,0" BorderBrush="#FFF09609">
+                                    <StackPanel>
+                                        <TextBlock Margin="4" Text="Precio Sugerido:" FontWeight="Bold" FontSize="14" Foreground="#FF000000"></TextBlock>
+                                        <TextBlock Margin="4" Text="{Binding precioBase, StringFormat='Q. \{0\}' }" FontSize="14" Foreground="#FFF09609" FontWeight="Bold"></TextBlock>
+                                    </StackPanel>
+                                </Border>
+                            </Grid>
+                        </Grid>
+                    </DataTemplate>
+                </viblendEditors:ListBox.ItemTemplate>
+            </viblendEditors:ListBox>
+            
+            
+        </StackPanel>
+
+         
+    </Canvas>
+    
+</navigation:Page>

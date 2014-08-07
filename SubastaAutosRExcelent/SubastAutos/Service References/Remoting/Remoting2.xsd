@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/SubastAutos.ModeloDeDatos" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/SubastAutos.ModeloDeDatos" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Subasta">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Estado" type="xs:byte" />
+      <xs:element minOccurs="0" name="IdSubasta" type="xs:int" />
+      <xs:element minOccurs="0" name="IdVehiculo" type="xs:int" />
+      <xs:element minOccurs="0" name="LogginDueño" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PrecioSugerido" type="xs:double" />
+      <xs:element minOccurs="0" name="VehiculosDeSubasta" nillable="true" type="tns:ArrayOfVehiculo" />
+      <xs:element minOccurs="0" name="fechaPropuesta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="hora" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Subasta" nillable="true" type="tns:Subasta" />
+  <xs:complexType name="ArrayOfVehiculo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Vehiculo" nillable="true" type="tns:Vehiculo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfVehiculo" nillable="true" type="tns:ArrayOfVehiculo" />
+  <xs:complexType name="Vehiculo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="año" type="xs:int" />
+      <xs:element minOccurs="0" name="color" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="combustible" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="estado" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="idCombustible" type="xs:int" />
+      <xs:element minOccurs="0" name="idEstado" type="xs:int" />
+      <xs:element minOccurs="0" name="idTipoVehiculo" type="xs:int" />
+      <xs:element minOccurs="0" name="idVehiculo" type="xs:int" />
+      <xs:element minOccurs="0" name="kilometraje" type="xs:double" />
+      <xs:element minOccurs="0" name="marca" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="modelo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="pathImagen" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="placa" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="precioBase" type="xs:double" />
+      <xs:element minOccurs="0" name="tipoVehiculo" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Vehiculo" nillable="true" type="tns:Vehiculo" />
+</xs:schema>

@@ -1,0 +1,28 @@
+﻿<navigation:Page x:Class="SubastAutos.paginas.inicio" 
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           mc:Ignorable="d"
+           xmlns:navigation="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Navigation"
+           d:DesignWidth="640" d:DesignHeight="480"
+           Title="Page1 Page" Foreground="#FFABE2CD">
+    <Grid x:Name="LayoutRoot" Style="{StaticResource fondoContenedorGrid}">
+        <StackPanel Margin="10,20">
+            <TextBlock Width="auto" Height="auto" TextWrapping="Wrap" Foreground="#FF8AC7C7" FontSize="14">
+                Bienvenidos a SubastAutos.com . Aquí podrás encontrar autos en venta de diferentes lados de Guatemala. Así mismo si deseas vender tu auto, camioneta o cualquier tipo de vehículo, podrás hacerlo aca. El objetivo principal es establecer un vínculo entre compradores de autos y vendedores de autos de manera que estos se beneficien del sistema.
+            </TextBlock>
+            <TextBlock Height="50"/>
+            <TextBlock Foreground="#FFCEC7A1" FontSize="22">
+                ¿Cómo vender tu automovil ?
+            </TextBlock>
+            <TextBlock Height="auto" Width="auto" TextWrapping="Wrap" Foreground="#FF83B783" FontSize="14" >
+                Podrás publicar fotografías de tu carro automotor de manera que los usuarios que estén comprando un auto puedan verificar de manera oportuna el vehículo. Si cuentas con imagenes de tu auto de buena calidad podrás lograr un mayor atractivo para el usuario ya que ayudará notablemente a la decisión de compra.
+            </TextBlock>
+            <TextBlock Width="auto" Height="auto" TextWrapping="Wrap" Foreground="#FF83B783" FontSize="14" TextAlignment="Left" Margin="0,20">
+                Hacemos la observación que este sistema de compra venta de autos es únicamente un vínculo entre compradores y vendedores de autos, la empresa no se hace responsable de malas negociaciones o negociaciones fraudulentas así como la veracidad de las publicaciones. Agradecemos de antemano tu preferencia y estamos a tus órdenes para observaciones y sugerencias.
+            </TextBlock>
+        </StackPanel>
+        
+    </Grid>
+</navigation:Page>

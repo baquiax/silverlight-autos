@@ -1,0 +1,64 @@
+﻿<navigation:Page  x:Class="SubastAutos.paginas.detalleDeVehiculo" 
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           xmlns:navigation="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Navigation"
+           xmlns:editors="clr-namespace:VIBlend.Silverlight.Controls;assembly=VIBlend.Silverlight.Editors"
+                 xmlns:viblend="clr-namespace:VIBlend.Silverlight.Controls;assembly=VIBlend.Silverlight.NavigationPanes"
+          
+           xmlns:viblendEditors="clr-namespace:VIBlend.Silverlight.Controls;assembly=VIBlend.Silverlight.Editors" xmlns:viblendUtilities="clr-namespace:VIBlend.Silverlight.Controls;assembly=VIBlend.Silverlight.Utilities" xmlns:x1="http://schemas.microsoft.com/client/2007" xmlns:SubastAutos_ServicioAlCliente="clr-namespace:SubastAutos.ServicioAlCliente" 
+           mc:Ignorable="d"
+           d:DesignWidth="720" d:DesignHeight="480"
+          
+           Title="detalleDeVehiculo Page" Unloaded="Page_Unloaded">
+	<navigation:Page.Resources>
+		<x1:DataTemplate x:Key="DataTemplate1">
+			<x1:Grid/>
+		</x1:DataTemplate>
+	</navigation:Page.Resources>
+    <x1:Grid x:Name="LayoutRoot" Style="{StaticResource fondoContenedorGrid}">
+        <x1:Grid.ColumnDefinitions>
+        	<x1:ColumnDefinition Width="369*" />
+        	<x1:ColumnDefinition Width="271*" />
+     </x1:Grid.ColumnDefinitions>
+        <x1:TextBlock Height="23" HorizontalAlignment="Left" Margin="29,90,0,0" x:Name="textBlock1" Text="Placa:" VerticalAlignment="Top" />
+        <x1:TextBlock Height="23" HorizontalAlignment="Left" Margin="77,90,0,0" x:Name="tblPlaca" Text="" VerticalAlignment="Top" Width="170" />
+        <x1:TextBlock Height="142" HorizontalAlignment="Left" Margin="49,335,0,0"  VerticalAlignment="Top" Width="343">Comentario</x1:TextBlock>
+        <x1:ScrollViewer Height="112" HorizontalAlignment="Left" Margin="49,356,0,0"  VerticalAlignment="Top" Width="343" Opacity="0.8" Background="#FF212126">
+            <x1:TextBlock Height="auto" HorizontalAlignment="Left" Margin="0" x:Name="Comentario" Text="Comentario" VerticalAlignment="Top" Width="318" TextWrapping="Wrap" Foreground="#FFF09609"/>
+        </x1:ScrollViewer>
+        <x1:TextBlock Height="23" HorizontalAlignment="Left" Margin="30,54,0,0" x:Name="textBlock4" Text="Detalles:" VerticalAlignment="Top" x1:Grid.Column="1" />
+        <viblendEditors:ListBox Height="303" Margin="25,80,8,0" x:Name="DetallesDelAuto" VerticalAlignment="Top" x1:Grid.Column="1" SelectionChanged="DetallesDelAuto_SelectionChanged" >
+            <viblendEditors:ListBox.ItemTemplate>
+                <DataTemplate>
+                        <Grid Margin="2,4,2,0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Text="{Binding Tema}"  FontSize="13" FontWeight="Bold" />
+                            <TextBlock Width="240" Height="auto" TextWrapping="Wrap" Text="{Binding Descripcion}" FontSize="12" FontWeight="Bold" Foreground="#FFF09609"  Grid.Row="2" />
+                        
+                        </Grid>
+                    
+                    
+                </DataTemplate>
+            </viblendEditors:ListBox.ItemTemplate>
+        </viblendEditors:ListBox>
+        <viblendEditors:Button Content="Agregar una Imagen" Height="32" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="12,12,0,0" x:Name="button1" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="137" FontSize="13" FontWeight="Bold" Click="button1_Click" />
+        <viblendEditors:Button Content="Eliminar Imagen." FontSize="13" FontWeight="Bold" Height="32" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="217,12,0,0" x:Name="button3" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="137" Click="button3_Click" />
+        <viblendEditors:Button Content="Subastar este auto>>" FontSize="20" FontWeight="Bold" Height="59" HorizontalAlignment="Center" Width="217" x:Name="btnSubastar" Margin="88,418,0,0" VerticalAlignment="Top" Grid.Column="1" Background="#FF508050" IsEnabled="False" Click="btnSubastar_Click"></viblendEditors:Button>
+        <viblendEditors:Button Content="Agregar un Detalle." FontSize="13" FontWeight="Bold" Height="32" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="14,12,0,0" x:Name="AgregarEStado" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="137" x1:Grid.Column="1" Click="AgregarEStado_Click" />
+        <viblendEditors:Button Content="Eliminar Detalle." FontSize="13" FontWeight="Bold" Height="32" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="160,12,0,0" x:Name="EliminarEstado" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="137" x1:Grid.Column="1" Click="EliminarEstado_Click" />
+        <viblendEditors:ListBox Height="220" HorizontalAlignment="Left" Margin="58,108,0,0" Name="ListaDeImagenes" VerticalAlignment="Top" Width="290" SelectionChanged="ListaDeImagenes_SelectionChanged"  ItemsSource="{Binding}">
+            <viblendEditors:ListBox.ItemTemplate >
+                <DataTemplate>
+                    <Image Width="250" Height="210" Source="{Binding Foto,Converter={StaticResource Convertidor}}" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        
+                    </Image>
+                </DataTemplate>
+            </viblendEditors:ListBox.ItemTemplate>
+        </viblendEditors:ListBox>
+    </x1:Grid>
+</navigation:Page>

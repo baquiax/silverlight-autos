@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2ec385cd-ae7d-4376-97b4-a5903973150b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/Remoting.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Remoting.disco" MetadataType="Disco" ID="aea66bd1-edba-48be-b165-2879ce7d07f6" SourceId="1" SourceUrl="http://localhost:8080/Remoting.svc?disco" />
+    <MetadataFile FileName="Remoting.wsdl" MetadataType="Wsdl" ID="1d084f9e-416f-4d5b-a71b-4cf9126bf8fd" SourceId="1" SourceUrl="http://localhost:8080/Remoting.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="Remoting2.xsd" MetadataType="Schema" ID="8ebf80b5-3faa-4c73-93be-88ad30d8327b" SourceId="1" SourceUrl="http://localhost:8080/Remoting.svc?xsd=xsd2" />
+    <MetadataFile FileName="Remoting.xsd" MetadataType="Schema" ID="8e0c9b81-b312-46bb-853f-f8625f8702e1" SourceId="1" SourceUrl="http://localhost:8080/Remoting.svc?xsd=xsd1" />
+    <MetadataFile FileName="Remoting1.xsd" MetadataType="Schema" ID="8d0fc446-8195-4531-9fed-1680dc0512f6" SourceId="1" SourceUrl="http://localhost:8080/Remoting.svc?xsd=xsd0" />
+    <MetadataFile FileName="Remoting1.wsdl" MetadataType="Wsdl" ID="0b02dd0f-6a90-4351-b9a5-f9b2f06cb032" SourceId="1" SourceUrl="http://localhost:8080/Remoting.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

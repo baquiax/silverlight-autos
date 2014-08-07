@@ -1,0 +1,79 @@
+﻿<controls:ChildWindow x:Class="SubastAutos.AgregarAutomovil"
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+           Width="662" Height="580" 
+           Title="Agregar Automovil" xmlns:viblendTabControl="clr-namespace:VIBlend.Silverlight.Controls;assembly=VIBlend.Silverlight.TabControl" xmlns:viblendEditors="clr-namespace:VIBlend.Silverlight.Controls;assembly=VIBlend.Silverlight.Editors">
+    <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility ="Auto" Margin="0" Height="auto" Width="644">
+    <Grid x:Name="LayoutRoot" Margin="2" Width="605">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        
+        <TextBlock VerticalAlignment="Center" Margin="119,130,359,414">Placa del Automovil</TextBlock>
+        <Border Canvas.Left="0" Canvas.Top="0" CornerRadius="10" BorderThickness="1" Margin="0,0,-9,28">
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                    <GradientStop Color="#FFB2B7B7" Offset=".5" />
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                    <GradientStop Color="#E700B6FF" Offset="0.2" />
+                    <GradientStop Color="#7100B6FF" Offset="0.9" />
+                </LinearGradientBrush>
+            </Border.Background>
+            <viblendTabControl:TabControl BorderBrush="LightGray" BorderThickness="1" Height="590" Name="tabControl1" SelectedIndex="0" Width="600" Background="Gray">
+                <viblendTabControl:TabItem Text="Datos del Vehiculo">
+                        <Grid Background="Gray" Width="480" Height="470" Margin="70,20,50,50" MaxHeight="480">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="47" />
+                                <RowDefinition Height="47" />
+                                <RowDefinition Height="47" />
+                                <RowDefinition Height="47" />
+                                <RowDefinition Height="47" />
+                                <RowDefinition Height="47" />
+                                <RowDefinition Height="47" />
+                                <RowDefinition Height="47" />
+                                <RowDefinition Height="47" />
+                                <RowDefinition Height="47" />
+                                <RowDefinition Height="10*" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="auto" />
+                                <ColumnDefinition />
+                            </Grid.ColumnDefinitions>
+                            <TextBlock VerticalAlignment="Center" Grid.Row="0" Margin="0,0,50,0">Placa</TextBlock>
+                            <viblendEditors:TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Name="txtPlaca" VerticalAlignment="Center" Width="220" Watermark="Placa del auto" TabIndex="1" TextChanged="txtPlaca_TextChanged" />
+                            <TextBlock VerticalAlignment="Center" Grid.Row="1" Margin="0,0,50,0">Combustible</TextBlock>
+                            <viblendEditors:ComboBox Grid.Column="1" Grid.Row="1" Height="23" Width="220" VerticalAlignment="Center" HorizontalAlignment="Left" PromptText="Elige el combustible." Name="cbxCombustible" TabIndex="2" SelectionChanged="cbxCombustible_SelectionChanged" />
+                            <TextBlock VerticalAlignment="Center" Grid.Row="2" Margin="0,0,50,0">Marca</TextBlock>
+                            <viblendEditors:TextBox Grid.Column="2" Grid.Row="2" Height="23" HorizontalAlignment="Left" Name="txtMarca" VerticalAlignment="Center" Width="220" Watermark="Marca" TabIndex="3" TextChanged="txtMarca_TextChanged" />
+                            <TextBlock VerticalAlignment="Center" Grid.Row="3" Margin="0,0,50,0">Año</TextBlock>
+                            <viblendEditors:MaskEditor Grid.Column="1" Grid.Row="3" Height="23" Width="220" VerticalAlignment="Center" HorizontalAlignment="Left" Mask="0000" Name="txtAño" TabIndex="4" TextChanged="txtAño_TextChanged" />
+                            <TextBlock VerticalAlignment="Center" Grid.Row="4" Margin="0,0,50,0">Modelo</TextBlock>
+                            <viblendEditors:TextBox Grid.Column="2" Grid.Row="4" Height="23" HorizontalAlignment="Left" Name="txtModelo" VerticalAlignment="Center" Width="220" Watermark="Marca" TabIndex="5" TextChanged="txtModelo_TextChanged" />
+                            
+                            <TextBlock VerticalAlignment="Center" Grid.Row="5" Margin="0,0,50,0">Kilometraje</TextBlock>
+                            
+                            <viblendEditors:NumberEditor x:Name="txtKilometraje" Grid.Row="5" HorizontalAlignment="Left" Grid.Column="1" TextAlignment="Left"
+                              DecimalPlaces="2" Height="23" Width="220" DefaultToolTipMessage="Dato erroneo." Minimum="0" Value="0.00" MaxLength="10" TextChanged="txtKilometraje_TextChanged"></viblendEditors:NumberEditor>
+
+                            <TextBlock VerticalAlignment="Center" Grid.Row="6" Margin="0,0,50,0">Color</TextBlock>
+                            <viblendEditors:TextBox Grid.Column="2" Grid.Row="6" Height="23" HorizontalAlignment="Left" Name="txtColor" VerticalAlignment="Center" Width="220" Watermark="Marca" TabIndex="7" TextChanged="txtColor_TextChanged" />
+                            <TextBlock VerticalAlignment="Center" Grid.Row="7" Margin="0,0,50,0">Tipo de Vehiculo</TextBlock>
+                            <viblendEditors:ComboBox Grid.Column="1" Grid.Row="7" Height="23" HorizontalAlignment="Left" Name="cbxTipoVehiculo" VerticalAlignment="Center" Width="220" PromptText="Tipos de Vehiculo" Margin="0,15,0,9" TabIndex="8" SelectionChanged="cbxTipoVehiculo_SelectionChanged" />
+                            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="8" Margin="0,0,50,0">Precio sugerido(Q.).</TextBlock>
+                            <viblendEditors:CurrencyEditor Grid.Column="1" Grid.Row="8" x:Name="txtPrecio" SpinType="None" HorizontalAlignment="Left" Width="220" Height="23" DecimalPlaces="2" Text="0.00" TextAlignment="Left" Maximum="999999999999999999999999" Minimum="0" TextChanged="txtPrecio_TextChanged" TabIndex="9" />
+                            <viblendEditors:Button Width="150" Height="30" Content="Aceptar" Grid.Column="0" Name="btnAceptar" Grid.Row="9" TabIndex="10" Click="btnAceptar_Click" IsEnabled="False" />
+                            <viblendEditors:Button Width="150" Height="30" Content="Cancelar" Grid.Column="1" Name="btnCancelar" Grid.Row="9" TabIndex="11" />
+                        </Grid>
+                    </viblendTabControl:TabItem>
+                
+            </viblendTabControl:TabControl>
+        </Border>
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="30,50" Name="textBlock1" Text="*Todos los campos son obligatorios." FontSize="13" FontWeight="Bold" VerticalAlignment="Top" Foreground="#FFF2D0CA"></TextBlock>
+        </Grid>
+    </ScrollViewer>
+</controls:ChildWindow>

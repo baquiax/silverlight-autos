@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{58027977-EBB0-4185-9B68-66F22326B855}</ProjectGuid>
+    <ProjectTypeGuids>{A1591282-1198-4647-A2B1-27E5FF5F6F3B};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SubastAutos</RootNamespace>
+    <AssemblyName>SubastAutos</AssemblyName>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>es</SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>SubastAutos.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>SubastAutos.App</SilverlightAppEntry>
+    <TestPageFileName>SubastAutosTestPage.html</TestPageFileName>
+    <CreateTestPage>true</CreateTestPage>
+    <ValidateXaml>true</ValidateXaml>
+    <EnableOutOfBrowser>false</EnableOutOfBrowser>
+    <OutOfBrowserSettingsFile>Properties\OutOfBrowserSettings.xml</OutOfBrowserSettingsFile>
+    <UsePlatformExtensions>false</UsePlatformExtensions>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <LinkedServerProject>
+    </LinkedServerProject>
+    <Utf8Output>true</Utf8Output>
+    <ExpressionBlendVersion>4.0.20525.0</ExpressionBlendVersion>
+  </PropertyGroup>
+  <!-- This property group is only here to support building this project using the 
+       MSBuild 3.5 toolset. In order to work correctly with this older toolset, it needs 
+       to set the TargetFrameworkVersion to v3.5 -->
+  <PropertyGroup Condition="'$(MSBuildToolsVersion)' == '3.5'">
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System.ComponentModel.DataAnnotations, Version=2.0.5.0, Culture=neutral, PublicKeyToken=ddd0da4d3e678217" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Extensions, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.ServiceModel.PollingDuplex, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Controls, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Controls.Data, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="System.Windows.Controls.Data.Input, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="System.Windows.Controls.Navigation, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Data, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Windows.Browser" />
+    <Reference Include="VIBlend.Silverlight.DataGrid, Version=4.0.0.0, Culture=neutral, PublicKeyToken=77d0cde755fee43c" />
+    <Reference Include="VIBlend.Silverlight.Editors, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6546306d640fbdbb" />
+    <Reference Include="VIBlend.Silverlight.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=d6e3f33798f73756" />
+    <Reference Include="VIBlend.Silverlight.Menu, Version=4.0.0.0, Culture=neutral, PublicKeyToken=85c7390eefa587df" />
+    <Reference Include="VIBlend.Silverlight.NavigationPanes, Version=4.0.0.0, Culture=neutral, PublicKeyToken=91fd29d07a5e1d01" />
+    <Reference Include="VIBlend.Silverlight.RibbonBar, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b48a61db02a9a805" />
+    <Reference Include="VIBlend.Silverlight.TabControl, Version=4.0.0.0, Culture=neutral, PublicKeyToken=85c7390eefa587df" />
+    <Reference Include="VIBlend.Silverlight.TreeView, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7c851330d1470db6" />
+    <Reference Include="VIBlend.Silverlight.Utilities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5f65d588f3a56fc4" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarDetalleEstado.xaml.cs">
+      <DependentUpon>AgregarDetalleEstado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarDetalleVehiculo.xaml.cs">
+      <DependentUpon>AgregarDetalleVehiculo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarAutomovil.xaml.cs">
+      <DependentUpon>AgregarAutomovil.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarSubasta.xaml.cs">
+      <DependentUpon>AgregarSubasta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Convertidor.cs" />
+    <Compile Include="Logearse.xaml.cs">
+      <DependentUpon>Logearse.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\autosComprados.xaml.cs">
+      <DependentUpon>autosComprados.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\autosDisponibles.xaml.cs">
+      <DependentUpon>autosDisponibles.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\autosVendidos.xaml.cs">
+      <DependentUpon>autosVendidos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\comprar.xaml.cs">
+      <DependentUpon>comprar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\ofrecerSubasta.xaml.cs">
+      <DependentUpon>ofrecerSubasta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\cuentas.xaml.cs">
+      <DependentUpon>cuentas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\detalleDeVehiculo.xaml.cs">
+      <DependentUpon>detalleDeVehiculo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\logearse.xaml.cs">
+      <DependentUpon>logearse.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\inicio.xaml.cs">
+      <DependentUpon>inicio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\misAutos.xaml.cs">
+      <DependentUpon>misAutos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\modificarAuto.xaml.cs">
+      <DependentUpon>modificarAuto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\modificarPerfil.xaml.cs">
+      <DependentUpon>modificarPerfil.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\ofertas.xaml.cs">
+      <DependentUpon>ofertas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\perfil.xaml.cs">
+      <DependentUpon>perfil.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\registrarse.xaml.cs">
+      <DependentUpon>registrarse.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\subastar.xaml.cs">
+      <DependentUpon>subastar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ParticiparEnSubasta.xaml.cs">
+      <DependentUpon>ParticiparEnSubasta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recurso.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Recurso.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\Remoting\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServicioAlCliente\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="AgregarDetalleEstado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AgregarDetalleVehiculo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AgregarAutomovil.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AgregarSubasta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Logearse.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\autosComprados.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\autosDisponibles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\autosVendidos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\comprar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\ofrecerSubasta.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="paginas\cuentas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\detalleDeVehiculo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\misAutos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\modificarAuto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\modificarPerfil.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\ofertas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\perfil.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\registrarse.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="paginas\subastar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ParticiparEnSubasta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Service References\Remoting\Remoting.wsdl" />
+    <None Include="Service References\Remoting\Remoting.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Remoting\Remoting1.wsdl" />
+    <None Include="Service References\Remoting\Remoting1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Remoting\Remoting2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Remoting\SubastAutos.Remoting.Subasta.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioAlCliente\ServiciosAlCliente.wsdl" />
+    <None Include="Service References\ServicioAlCliente\ServiciosAlCliente.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioAlCliente\ServiciosAlCliente1.wsdl" />
+    <None Include="Service References\ServicioAlCliente\ServiciosAlCliente1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioAlCliente\ServiciosAlCliente2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioAlCliente\ServiciosAlCliente3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioAlCliente\ServiciosAlCliente4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioAlCliente\SubastAutos.ServicioAlCliente.Combustible.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioAlCliente\SubastAutos.ServicioAlCliente.Departamento.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioAlCliente\SubastAutos.ServicioAlCliente.DetallesDeEstadoDelVehiculo.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioAlCliente\SubastAutos.ServicioAlCliente.DetalleVehiculo.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioAlCliente\SubastAutos.ServicioAlCliente.EstadoSubasta.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioAlCliente\SubastAutos.ServicioAlCliente.Municipio.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioAlCliente\SubastAutos.ServicioAlCliente.Perfil.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioAlCliente\SubastAutos.ServicioAlCliente.Subasta.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioAlCliente\SubastAutos.ServicioAlCliente.TipoVehiculo.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioAlCliente\SubastAutos.ServicioAlCliente.Usuario.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServicioAlCliente\SubastAutos.ServicioAlCliente.Vehiculo.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <Resource Include="imagenes\profile.png" />
+    <None Include="Service References\Remoting\Remoting.disco" />
+    <None Include="Service References\Remoting\configuration91.svcinfo" />
+    <None Include="Service References\Remoting\configuration.svcinfo" />
+    <None Include="Service References\Remoting\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\ServicioAlCliente\ServiciosAlCliente.disco" />
+    <None Include="Service References\ServicioAlCliente\configuration91.svcinfo" />
+    <None Include="Service References\ServicioAlCliente\configuration.svcinfo" />
+    <None Include="Service References\ServicioAlCliente\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="ServiceReferences.ClientConfig">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Fondo.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="paginas\inicio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="paginas\logearse.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Recurso.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Recurso.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\Remoting\" />
+    <WCFMetadataStorage Include="Service References\ServicioAlCliente\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{A1591282-1198-4647-A2B1-27E5FF5F6F3B}">
+        <SilverlightProjectProperties />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

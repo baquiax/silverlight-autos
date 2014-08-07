@@ -1,0 +1,39 @@
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\bin\SubastAutos.Web.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\bin\SubastAutos.Web.pdb
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\bin\DbLinq.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\bin\DbLinq.MySql.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\obj\Debug\SubastAutos.Web.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\obj\Debug\SubastAutos.Web.pdb
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\bin\SubastAutos.Web.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\bin\SubastAutos.Web.pdb
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\bin\DbLinq.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\bin\DbLinq.MySql.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\bin\System.ServiceModel.PollingDuplex.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\obj\Debug\SubastAutos.Web.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos.Web\obj\Debug\SubastAutos.Web.pdb
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos.Web\bin\SubastAutos.Web.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos.Web\bin\SubastAutos.Web.pdb
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos.Web\bin\DbLinq.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos.Web\bin\DbLinq.MySql.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos.Web\bin\System.ServiceModel.PollingDuplex.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos.Web\obj\Debug\SubastAutos.Web.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos.Web\obj\Debug\SubastAutos.Web.pdb
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\bin\SubastAutos.Web.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\bin\SubastAutos.Web.pdb
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\bin\DbLinq.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\bin\DbLinq.MySql.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\bin\System.ServiceModel.PollingDuplex.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\obj\Debug\SubastAutos.Web.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\obj\Debug\SubastAutos.Web.pdb
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\bin\SubastAutos.Web.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\bin\SubastAutos.Web.pdb
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\bin\DbLinq.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\bin\DbLinq.MySql.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\bin\System.ServiceModel.PollingDuplex.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\obj\Debug\SubastAutos.Web.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos.Web\obj\Debug\SubastAutos.Web.pdb

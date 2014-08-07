@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="/Imports">
+      <xsd:import schemaLocation="http://localhost:8080/Remoting.svc?xsd=xsd0" />
+      <xsd:import schemaLocation="http://localhost:8080/Remoting.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8080/Remoting.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/SubastAutos.ModeloDeDatos" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="Remoting_Reportar_InputMessage">
+    <wsdl:part name="parameters" element="Reportar" />
+  </wsdl:message>
+  <wsdl:message name="Remoting_Reportar_OutputMessage">
+    <wsdl:part name="parameters" element="ReportarResponse" />
+  </wsdl:message>
+  <wsdl:message name="Remoting_Salir_InputMessage">
+    <wsdl:part name="parameters" element="Salir" />
+  </wsdl:message>
+  <wsdl:message name="Remoting_Registrarse_InputMessage">
+    <wsdl:part name="parameters" element="Registrarse" />
+  </wsdl:message>
+  <wsdl:message name="Remoting_Registrarse_OutputMessage">
+    <wsdl:part name="parameters" element="RegistrarseResponse" />
+  </wsdl:message>
+  <wsdl:message name="Remoting_ModificarSubasta_InputMessage">
+    <wsdl:part name="parameters" element="ModificarSubasta" />
+  </wsdl:message>
+  <wsdl:message name="Remoting_ModificarSubasta_OutputMessage">
+    <wsdl:part name="parameters" element="ModificarSubastaResponse" />
+  </wsdl:message>
+  <wsdl:message name="Remoting_VehiculosDeSubastaActual_InputMessage">
+    <wsdl:part name="parameters" element="VehiculosDeSubastaActual" />
+  </wsdl:message>
+  <wsdl:message name="Remoting_VehiculosDeSubastaActual_OutputMessage">
+    <wsdl:part name="parameters" element="VehiculosDeSubastaActualResponse" />
+  </wsdl:message>
+  <wsdl:message name="Remoting_ActualizarListaDeAutosParaSubasta_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="ActualizarListaDeAutosParaSubasta" />
+  </wsdl:message>
+  <wsdl:portType name="Remoting">
+    <wsdl:operation name="Reportar">
+      <wsdl:input wsaw:Action="urn:Remoting/Reportar" message="Remoting_Reportar_InputMessage" />
+      <wsdl:output wsaw:Action="urn:Remoting/ReportarResponse" message="Remoting_Reportar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Salir">
+      <wsdl:input wsaw:Action="urn:Remoting/Salir" message="Remoting_Salir_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Registrarse">
+      <wsdl:input wsaw:Action="urn:Remoting/Registrarse" message="Remoting_Registrarse_InputMessage" />
+      <wsdl:output wsaw:Action="urn:Remoting/RegistrarseResponse" message="Remoting_Registrarse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarSubasta">
+      <wsdl:input wsaw:Action="urn:Remoting/ModificarSubasta" message="Remoting_ModificarSubasta_InputMessage" />
+      <wsdl:output wsaw:Action="urn:Remoting/ModificarSubastaResponse" message="Remoting_ModificarSubasta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="VehiculosDeSubastaActual">
+      <wsdl:input wsaw:Action="urn:Remoting/VehiculosDeSubastaActual" message="Remoting_VehiculosDeSubastaActual_InputMessage" />
+      <wsdl:output wsaw:Action="urn:Remoting/VehiculosDeSubastaActualResponse" message="Remoting_VehiculosDeSubastaActual_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarListaDeAutosParaSubasta">
+      <wsdl:output wsaw:Action="urn:Remoting/ActualizarListaDeAutosParaSubasta" message="Remoting_ActualizarListaDeAutosParaSubasta_OutputCallbackMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

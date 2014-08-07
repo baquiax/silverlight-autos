@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="/Imports">
+      <xsd:import schemaLocation="http://localhost:8080/ServiciosAlCliente.svc?xsd=xsd0" />
+      <xsd:import schemaLocation="http://localhost:8080/ServiciosAlCliente.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8080/ServiciosAlCliente.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/SubastAutos.Web" />
+      <xsd:import schemaLocation="http://localhost:8080/ServiciosAlCliente.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/SubastAutos.ModeloDeDatos" />
+      <xsd:import schemaLocation="http://localhost:8080/ServiciosAlCliente.svc?xsd=xsd4" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ServiciosAlCliente_Registrarse_InputMessage">
+    <wsdl:part name="parameters" element="Registrarse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_Registrarse_OutputMessage">
+    <wsdl:part name="parameters" element="RegistrarseResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_ModificarUsuario_InputMessage">
+    <wsdl:part name="parameters" element="ModificarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_ModificarUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="ModificarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarPerfil_InputMessage">
+    <wsdl:part name="parameters" element="AgregarPerfil" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarPerfil_OutputMessage">
+    <wsdl:part name="parameters" element="AgregarPerfilResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_ModificarPerfil_InputMessage">
+    <wsdl:part name="parameters" element="ModificarPerfil" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_ModificarPerfil_OutputMessage">
+    <wsdl:part name="parameters" element="ModificarPerfilResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarComentario_InputMessage">
+    <wsdl:part name="parameters" element="AgregarComentario" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarComentario_OutputMessage">
+    <wsdl:part name="parameters" element="AgregarComentarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarCombustible_InputMessage">
+    <wsdl:part name="parameters" element="AgregarCombustible" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarCombustible_OutputMessage">
+    <wsdl:part name="parameters" element="AgregarCombustibleResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_ModificarCombustible_InputMessage">
+    <wsdl:part name="parameters" element="ModificarCombustible" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_ModificarCombustible_OutputMessage">
+    <wsdl:part name="parameters" element="ModificarCombustibleResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_Comprar_InputMessage">
+    <wsdl:part name="parameters" element="Comprar" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_Comprar_OutputMessage">
+    <wsdl:part name="parameters" element="ComprarResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarCuenta_InputMessage">
+    <wsdl:part name="parameters" element="AgregarCuenta" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarCuenta_OutputMessage">
+    <wsdl:part name="parameters" element="AgregarCuentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_ModificarCuenta_InputMessage">
+    <wsdl:part name="parameters" element="ModificarCuenta" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_ModificarCuenta_OutputMessage">
+    <wsdl:part name="parameters" element="ModificarCuentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EliminarCuenta_InputMessage">
+    <wsdl:part name="parameters" element="EliminarCuenta" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EliminarCuenta_OutputMessage">
+    <wsdl:part name="parameters" element="EliminarCuentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarDetalleVehiculo_InputMessage">
+    <wsdl:part name="parameters" element="AgregarDetalleVehiculo" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarDetalleVehiculo_OutputMessage">
+    <wsdl:part name="parameters" element="AgregarDetalleVehiculoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EliminarDetalleVehiculo_InputMessage">
+    <wsdl:part name="parameters" element="EliminarDetalleVehiculo" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EliminarDetalleVehiculo_OutputMessage">
+    <wsdl:part name="parameters" element="EliminarDetalleVehiculoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarEstadoSubasta_InputMessage">
+    <wsdl:part name="parameters" element="AgregarEstadoSubasta" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarEstadoSubasta_OutputMessage">
+    <wsdl:part name="parameters" element="AgregarEstadoSubastaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarRol_InputMessage">
+    <wsdl:part name="parameters" element="AgregarRol" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarRol_OutputMessage">
+    <wsdl:part name="parameters" element="AgregarRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EliminarRol_InputMessage">
+    <wsdl:part name="parameters" element="EliminarRol" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EliminarRol_OutputMessage">
+    <wsdl:part name="parameters" element="EliminarRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_RolAUsuario_InputMessage">
+    <wsdl:part name="parameters" element="RolAUsuario" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_RolAUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="RolAUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EliminarRolAUsuario_InputMessage">
+    <wsdl:part name="parameters" element="EliminarRolAUsuario" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EliminarRolAUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="EliminarRolAUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarSubasta_InputMessage">
+    <wsdl:part name="parameters" element="AgregarSubasta" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarSubasta_OutputMessage">
+    <wsdl:part name="parameters" element="AgregarSubastaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_ModificarSubasta_InputMessage">
+    <wsdl:part name="parameters" element="ModificarSubasta" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_ModificarSubasta_OutputMessage">
+    <wsdl:part name="parameters" element="ModificarSubastaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarVehiculo_InputMessage">
+    <wsdl:part name="parameters" element="AgregarVehiculo" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarVehiculo_OutputMessage">
+    <wsdl:part name="parameters" element="AgregarVehiculoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_ModificarVehiculo_InputMessage">
+    <wsdl:part name="parameters" element="ModificarVehiculo" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_ModificarVehiculo_OutputMessage">
+    <wsdl:part name="parameters" element="ModificarVehiculoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarDetalleEstadoVehiculo_InputMessage">
+    <wsdl:part name="parameters" element="AgregarDetalleEstadoVehiculo" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarDetalleEstadoVehiculo_OutputMessage">
+    <wsdl:part name="parameters" element="AgregarDetalleEstadoVehiculoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EliminarDetalleEstadoVehiculo_InputMessage">
+    <wsdl:part name="parameters" element="EliminarDetalleEstadoVehiculo" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EliminarDetalleEstadoVehiculo_OutputMessage">
+    <wsdl:part name="parameters" element="EliminarDetalleEstadoVehiculoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_Logearse_InputMessage">
+    <wsdl:part name="parameters" element="Logearse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_Logearse_OutputMessage">
+    <wsdl:part name="parameters" element="LogearseResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_PerfilDeUsuario_InputMessage">
+    <wsdl:part name="parameters" element="PerfilDeUsuario" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_PerfilDeUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="PerfilDeUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_DepartamentosDeGuatemala_InputMessage">
+    <wsdl:part name="parameters" element="DepartamentosDeGuatemala" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_DepartamentosDeGuatemala_OutputMessage">
+    <wsdl:part name="parameters" element="DepartamentosDeGuatemalaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_MunicipiosDeDepartamento_InputMessage">
+    <wsdl:part name="parameters" element="MunicipiosDeDepartamento" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_MunicipiosDeDepartamento_OutputMessage">
+    <wsdl:part name="parameters" element="MunicipiosDeDepartamentoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_Combustibles_InputMessage">
+    <wsdl:part name="parameters" element="Combustibles" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_Combustibles_OutputMessage">
+    <wsdl:part name="parameters" element="CombustiblesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_TiposDeVehiculos_InputMessage">
+    <wsdl:part name="parameters" element="TiposDeVehiculos" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_TiposDeVehiculos_OutputMessage">
+    <wsdl:part name="parameters" element="TiposDeVehiculosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_VehiculosUsuario_InputMessage">
+    <wsdl:part name="parameters" element="VehiculosUsuario" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_VehiculosUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="VehiculosUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_VehiculosComprados_InputMessage">
+    <wsdl:part name="parameters" element="VehiculosComprados" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_VehiculosComprados_OutputMessage">
+    <wsdl:part name="parameters" element="VehiculosCompradosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_VehiculosVendidos_InputMessage">
+    <wsdl:part name="parameters" element="VehiculosVendidos" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_VehiculosVendidos_OutputMessage">
+    <wsdl:part name="parameters" element="VehiculosVendidosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EstadoDeSusbasta_InputMessage">
+    <wsdl:part name="parameters" element="EstadoDeSusbasta" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EstadoDeSusbasta_OutputMessage">
+    <wsdl:part name="parameters" element="EstadoDeSusbastaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarVariable_InputMessage">
+    <wsdl:part name="parameters" element="AgregarVariable" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_AgregarVariable_OutputMessage">
+    <wsdl:part name="parameters" element="AgregarVariableResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_RetornarVariable_InputMessage">
+    <wsdl:part name="parameters" element="RetornarVariable" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_RetornarVariable_OutputMessage">
+    <wsdl:part name="parameters" element="RetornarVariableResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_DetallesEstadoVehiculo_InputMessage">
+    <wsdl:part name="parameters" element="DetallesEstadoVehiculo" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_DetallesEstadoVehiculo_OutputMessage">
+    <wsdl:part name="parameters" element="DetallesEstadoVehiculoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_DetalleVehiculo_InputMessage">
+    <wsdl:part name="parameters" element="DetalleVehiculo" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_DetalleVehiculo_OutputMessage">
+    <wsdl:part name="parameters" element="DetalleVehiculoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_VehiculosDebusqueda_InputMessage">
+    <wsdl:part name="parameters" element="VehiculosDebusqueda" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_VehiculosDebusqueda_OutputMessage">
+    <wsdl:part name="parameters" element="VehiculosDebusquedaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_PrecioMayor_InputMessage">
+    <wsdl:part name="parameters" element="PrecioMayor" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_PrecioMayor_OutputMessage">
+    <wsdl:part name="parameters" element="PrecioMayorResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_KilometrajeMayor_InputMessage">
+    <wsdl:part name="parameters" element="KilometrajeMayor" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_KilometrajeMayor_OutputMessage">
+    <wsdl:part name="parameters" element="KilometrajeMayorResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_VerificarHorarioDeSubasta_InputMessage">
+    <wsdl:part name="parameters" element="VerificarHorarioDeSubasta" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_VerificarHorarioDeSubasta_OutputMessage">
+    <wsdl:part name="parameters" element="VerificarHorarioDeSubastaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EnviarMail_InputMessage">
+    <wsdl:part name="parameters" element="EnviarMail" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_EnviarMail_OutputMessage">
+    <wsdl:part name="parameters" element="EnviarMailResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_TruncarContrseña_InputMessage">
+    <wsdl:part name="parameters" element="TruncarContrseña" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_TruncarContrseña_OutputMessage">
+    <wsdl:part name="parameters" element="TruncarContrseñaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_VehiculosDeSubastaActual_InputMessage">
+    <wsdl:part name="parameters" element="VehiculosDeSubastaActual" />
+  </wsdl:message>
+  <wsdl:message name="ServiciosAlCliente_VehiculosDeSubastaActual_OutputMessage">
+    <wsdl:part name="parameters" element="VehiculosDeSubastaActualResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiciosAlCliente">
+    <wsdl:operation name="Registrarse">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/Registrarse" message="ServiciosAlCliente_Registrarse_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/RegistrarseResponse" message="ServiciosAlCliente_Registrarse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarUsuario">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/ModificarUsuario" message="ServiciosAlCliente_ModificarUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/ModificarUsuarioResponse" message="ServiciosAlCliente_ModificarUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AgregarPerfil">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/AgregarPerfil" message="ServiciosAlCliente_AgregarPerfil_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/AgregarPerfilResponse" message="ServiciosAlCliente_AgregarPerfil_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarPerfil">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/ModificarPerfil" message="ServiciosAlCliente_ModificarPerfil_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/ModificarPerfilResponse" message="ServiciosAlCliente_ModificarPerfil_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AgregarComentario">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/AgregarComentario" message="ServiciosAlCliente_AgregarComentario_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/AgregarComentarioResponse" message="ServiciosAlCliente_AgregarComentario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AgregarCombustible">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/AgregarCombustible" message="ServiciosAlCliente_AgregarCombustible_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/AgregarCombustibleResponse" message="ServiciosAlCliente_AgregarCombustible_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarCombustible">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/ModificarCombustible" message="ServiciosAlCliente_ModificarCombustible_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/ModificarCombustibleResponse" message="ServiciosAlCliente_ModificarCombustible_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Comprar">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/Comprar" message="ServiciosAlCliente_Comprar_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/ComprarResponse" message="ServiciosAlCliente_Comprar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AgregarCuenta">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/AgregarCuenta" message="ServiciosAlCliente_AgregarCuenta_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/AgregarCuentaResponse" message="ServiciosAlCliente_AgregarCuenta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarCuenta">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/ModificarCuenta" message="ServiciosAlCliente_ModificarCuenta_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/ModificarCuentaResponse" message="ServiciosAlCliente_ModificarCuenta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarCuenta">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/EliminarCuenta" message="ServiciosAlCliente_EliminarCuenta_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/EliminarCuentaResponse" message="ServiciosAlCliente_EliminarCuenta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AgregarDetalleVehiculo">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/AgregarDetalleVehiculo" message="ServiciosAlCliente_AgregarDetalleVehiculo_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/AgregarDetalleVehiculoResponse" message="ServiciosAlCliente_AgregarDetalleVehiculo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarDetalleVehiculo">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/EliminarDetalleVehiculo" message="ServiciosAlCliente_EliminarDetalleVehiculo_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/EliminarDetalleVehiculoResponse" message="ServiciosAlCliente_EliminarDetalleVehiculo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AgregarEstadoSubasta">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/AgregarEstadoSubasta" message="ServiciosAlCliente_AgregarEstadoSubasta_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/AgregarEstadoSubastaResponse" message="ServiciosAlCliente_AgregarEstadoSubasta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AgregarRol">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/AgregarRol" message="ServiciosAlCliente_AgregarRol_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/AgregarRolResponse" message="ServiciosAlCliente_AgregarRol_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarRol">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/EliminarRol" message="ServiciosAlCliente_EliminarRol_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/EliminarRolResponse" message="ServiciosAlCliente_EliminarRol_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RolAUsuario">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/RolAUsuario" message="ServiciosAlCliente_RolAUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/RolAUsuarioResponse" message="ServiciosAlCliente_RolAUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarRolAUsuario">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/EliminarRolAUsuario" message="ServiciosAlCliente_EliminarRolAUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/EliminarRolAUsuarioResponse" message="ServiciosAlCliente_EliminarRolAUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AgregarSubasta">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/AgregarSubasta" message="ServiciosAlCliente_AgregarSubasta_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/AgregarSubastaResponse" message="ServiciosAlCliente_AgregarSubasta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarSubasta">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/ModificarSubasta" message="ServiciosAlCliente_ModificarSubasta_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/ModificarSubastaResponse" message="ServiciosAlCliente_ModificarSubasta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AgregarVehiculo">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/AgregarVehiculo" message="ServiciosAlCliente_AgregarVehiculo_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/AgregarVehiculoResponse" message="ServiciosAlCliente_AgregarVehiculo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarVehiculo">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/ModificarVehiculo" message="ServiciosAlCliente_ModificarVehiculo_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/ModificarVehiculoResponse" message="ServiciosAlCliente_ModificarVehiculo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AgregarDetalleEstadoVehiculo">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/AgregarDetalleEstadoVehiculo" message="ServiciosAlCliente_AgregarDetalleEstadoVehiculo_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/AgregarDetalleEstadoVehiculoResponse" message="ServiciosAlCliente_AgregarDetalleEstadoVehiculo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarDetalleEstadoVehiculo">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/EliminarDetalleEstadoVehiculo" message="ServiciosAlCliente_EliminarDetalleEstadoVehiculo_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/EliminarDetalleEstadoVehiculoResponse" message="ServiciosAlCliente_EliminarDetalleEstadoVehiculo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Logearse">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/Logearse" message="ServiciosAlCliente_Logearse_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/LogearseResponse" message="ServiciosAlCliente_Logearse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PerfilDeUsuario">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/PerfilDeUsuario" message="ServiciosAlCliente_PerfilDeUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/PerfilDeUsuarioResponse" message="ServiciosAlCliente_PerfilDeUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DepartamentosDeGuatemala">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/DepartamentosDeGuatemala" message="ServiciosAlCliente_DepartamentosDeGuatemala_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/DepartamentosDeGuatemalaResponse" message="ServiciosAlCliente_DepartamentosDeGuatemala_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MunicipiosDeDepartamento">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/MunicipiosDeDepartamento" message="ServiciosAlCliente_MunicipiosDeDepartamento_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/MunicipiosDeDepartamentoResponse" message="ServiciosAlCliente_MunicipiosDeDepartamento_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Combustibles">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/Combustibles" message="ServiciosAlCliente_Combustibles_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/CombustiblesResponse" message="ServiciosAlCliente_Combustibles_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TiposDeVehiculos">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/TiposDeVehiculos" message="ServiciosAlCliente_TiposDeVehiculos_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/TiposDeVehiculosResponse" message="ServiciosAlCliente_TiposDeVehiculos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="VehiculosUsuario">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/VehiculosUsuario" message="ServiciosAlCliente_VehiculosUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/VehiculosUsuarioResponse" message="ServiciosAlCliente_VehiculosUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="VehiculosComprados">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/VehiculosComprados" message="ServiciosAlCliente_VehiculosComprados_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/VehiculosCompradosResponse" message="ServiciosAlCliente_VehiculosComprados_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="VehiculosVendidos">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/VehiculosVendidos" message="ServiciosAlCliente_VehiculosVendidos_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/VehiculosVendidosResponse" message="ServiciosAlCliente_VehiculosVendidos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EstadoDeSusbasta">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/EstadoDeSusbasta" message="ServiciosAlCliente_EstadoDeSusbasta_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/EstadoDeSusbastaResponse" message="ServiciosAlCliente_EstadoDeSusbasta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AgregarVariable">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/AgregarVariable" message="ServiciosAlCliente_AgregarVariable_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/AgregarVariableResponse" message="ServiciosAlCliente_AgregarVariable_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RetornarVariable">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/RetornarVariable" message="ServiciosAlCliente_RetornarVariable_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/RetornarVariableResponse" message="ServiciosAlCliente_RetornarVariable_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DetallesEstadoVehiculo">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/DetallesEstadoVehiculo" message="ServiciosAlCliente_DetallesEstadoVehiculo_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/DetallesEstadoVehiculoResponse" message="ServiciosAlCliente_DetallesEstadoVehiculo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleVehiculo">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/DetalleVehiculo" message="ServiciosAlCliente_DetalleVehiculo_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/DetalleVehiculoResponse" message="ServiciosAlCliente_DetalleVehiculo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="VehiculosDebusqueda">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/VehiculosDebusqueda" message="ServiciosAlCliente_VehiculosDebusqueda_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/VehiculosDebusquedaResponse" message="ServiciosAlCliente_VehiculosDebusqueda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PrecioMayor">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/PrecioMayor" message="ServiciosAlCliente_PrecioMayor_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/PrecioMayorResponse" message="ServiciosAlCliente_PrecioMayor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="KilometrajeMayor">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/KilometrajeMayor" message="ServiciosAlCliente_KilometrajeMayor_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/KilometrajeMayorResponse" message="ServiciosAlCliente_KilometrajeMayor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="VerificarHorarioDeSubasta">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/VerificarHorarioDeSubasta" message="ServiciosAlCliente_VerificarHorarioDeSubasta_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/VerificarHorarioDeSubastaResponse" message="ServiciosAlCliente_VerificarHorarioDeSubasta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EnviarMail">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/EnviarMail" message="ServiciosAlCliente_EnviarMail_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/EnviarMailResponse" message="ServiciosAlCliente_EnviarMail_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TruncarContrseña">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/TruncarContrseña" message="ServiciosAlCliente_TruncarContrseña_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/TruncarContrseñaResponse" message="ServiciosAlCliente_TruncarContrseña_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="VehiculosDeSubastaActual">
+      <wsdl:input wsaw:Action="urn:ServiciosAlCliente/VehiculosDeSubastaActual" message="ServiciosAlCliente_VehiculosDeSubastaActual_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ServiciosAlCliente/VehiculosDeSubastaActualResponse" message="ServiciosAlCliente_VehiculosDeSubastaActual_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

@@ -1,0 +1,141 @@
+﻿<navigation:Page x:Class="SubastAutos.paginas.modificarPerfil" 
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           mc:Ignorable="d"
+           xmlns:navigation="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Navigation"
+           d:DesignWidth="640" d:DesignHeight="450"
+           Title="modificarPerfil Page" xmlns:viblendTabControl="clr-namespace:VIBlend.Silverlight.Controls;assembly=VIBlend.Silverlight.TabControl"
+                 xmlns:viblendEditors="clr-namespace:VIBlend.Silverlight.Controls;assembly=VIBlend.Silverlight.Editors"
+                 xmlns:viblendExtensions="clr-namespace:VIBlend.Silverlight.Controls;assembly=VIBlend.Silverlight.Extensions" Background="#FF313333" Unloaded="Page_Unloaded">
+    <Grid x:Name="LayoutRoot" Style="{StaticResource fondoContenedorGrid}" Height="1200">
+        <viblendTabControl:TabControl BorderBrush="LightGray" BorderThickness="1" Height="auto" HorizontalAlignment="Left" Margin="54,40,0,0" Name="tabControl1" SelectedIndex="0" VerticalAlignment="Top" Width="513" Background="#FF717474">
+            <viblendTabControl:TabItem  Text="Perfil" Height="auto" VerticalAlignment="Top" Width="auto">
+                <Grid Height="auto" Margin="10" Width="auto">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.434*" />
+                        <ColumnDefinition Width="0.566*" />
+                        <ColumnDefinition Width="0*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition Height="210"  />
+                        <RowDefinition Height="47"/>
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <TextBlock HorizontalAlignment="Left" VerticalAlignment="Center">Nombres:</TextBlock>
+                    <viblendEditors:TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="0,12" Name="txtNombres" VerticalAlignment="Center" Watermark="Nombres" Width="220" TextChanged="txtNombres_TextChanged" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center">Apellidos:</TextBlock>
+                    <viblendEditors:TextBox Grid.Column="1" Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="0,12" Name="txtApellidos" VerticalAlignment="Center" Watermark="Ingrese sus apellidos" Width="220" TextChanged="txtApellidos_TextChanged" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center">Pais de Origen:</TextBlock>
+                    <viblendEditors:TextBox Grid.Column="1" Grid.Row="2" Height="23" HorizontalAlignment="Left" Margin="0,12" Name="txtPais" VerticalAlignment="Center" Watermark="Pais de Origen" Width="220" TextChanged="txtPais_TextChanged" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Center">Departamento:</TextBlock>
+                    <viblendEditors:ComboBox Grid.Column="1" Grid.Row="3" Height="24" Width="220" HorizontalAlignment="Left" VerticalAlignment="Center" Name="cbxDepto" PromptText="Seleccione un Departamento" SelectionChanged="cbxDepto_SelectionChanged" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="4" HorizontalAlignment="Left" VerticalAlignment="Center">Municipio/Ciudad:</TextBlock>
+                    <viblendEditors:ComboBox Grid.Column="1" Grid.Row="4" Height="24" Width="220" HorizontalAlignment="Left" VerticalAlignment="Center" Name="cbxMuni" PromptText="Seleccione un municipio" IsEnabled="True" SelectionChanged="cbxMuni_SelectionChanged" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="5" HorizontalAlignment="Left" VerticalAlignment="Center">Direccion:</TextBlock>
+                    <viblendEditors:TextBox Grid.Column="1" Grid.Row="5" Height="23" Width="220" VerticalAlignment="center" HorizontalAlignment="left" Name="txtDireccion" Watermark="Escriba su direccion" TextChanged="txtDireccion_TextChanged" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="6" HorizontalAlignment="Left" VerticalAlignment="Center">Teléfono:</TextBlock>
+                    <viblendEditors:MaskEditor Grid.Column="1" Grid.Row="6" Height="23" Name="txtTelefono" Width="220" Mask="0000-0000" VerticalAlignment="Center" HorizontalAlignment="Left" TextChanged="txtTelefono_TextChanged" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="7" HorizontalAlignment="Left" VerticalAlignment="Center">Mail:</TextBlock>
+                    <viblendEditors:TextBox Grid.Column="1" Grid.Row="7" Height="23" Name="txtMail" Width="220"  VerticalAlignment="Center" HorizontalAlignment="Left" Watermark="correo@ejemplo.com" TextChanged="txtMail_TextChanged" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="8" HorizontalAlignment="Left" VerticalAlignment="Center">Fax:</TextBlock>
+                    <viblendEditors:MaskEditor Grid.Column="1" Grid.Row="8" Height="23" Name="txtFax" Width="220" Mask="0000000000" VerticalAlignment="Center" HorizontalAlignment="Left" TextChanged="txtFax_TextChanged" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="9" HorizontalAlignment="Left" VerticalAlignment="Center">Fecha de Nacimiento:</TextBlock>
+                    <viblendExtensions:DateTimePicker x:Name="txtFecha" Grid.Row="9" HorizontalAlignment="Left" DefaultDateTimeFormat="ShortDatePattern" Grid.Column="1" Width="220" Height="23" SelectedDateChanged="txtFecha_SelectedDateChanged" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="10" HorizontalAlignment="Left" VerticalAlignment="Center">Codigo Postal:</TextBlock>
+                    <viblendEditors:MaskEditor Grid.Column="1" Grid.Row="10" Height="23" Name="txtCodigoPostal" Width="220" Mask="00000000" VerticalAlignment="Center" HorizontalAlignment="Left" TextChanged="txtCodigoPostal_TextChanged" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="11" HorizontalAlignment="Left" VerticalAlignment="Center">Sexo:</TextBlock>
+                    <viblendEditors:ComboBox Grid.Column="1" Grid.Row="11" Height="24" Width="220" HorizontalAlignment="Left" VerticalAlignment="Center" Name="cbxSexo" PromptText="Sexo" IsEnabled="True" SelectionChanged="cbxSexo_SelectionChanged" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="12" HorizontalAlignment="Left" VerticalAlignment="Center">Alias:</TextBlock>
+                    <viblendEditors:Button Content="Imagen" Height="23" Name="btnAvatar" Width="50" Grid.Column="1" Grid.Row="12" VerticalAlignment="Center" HorizontalAlignment="Right" Click="btnAvatar_Click" />
+                    <TextBox Grid.Column="1" Grid.Row="12" Height="23" Name="txtFoto" Width="183"  VerticalAlignment="Center" HorizontalAlignment="Left" IsReadOnly="True" TextChanged="txtFoto_TextChanged" />
+
+                    <Image Grid.Column="0" Grid.Row="13" Height="200" Name="imgAvatar" Width="150"  VerticalAlignment="Top" HorizontalAlignment="Center" Grid.ColumnSpan="2"/>
+                    
+                    <viblendEditors:Button x:Name="btnModificar" Grid.Row="14" Grid.Column="0" Height="27" Width="120" FontSize="16" FontWeight="Bold" Click="btnModificar_Click">Modificar</viblendEditors:Button>
+                    <viblendEditors:Button x:Name="btnCancelar" Grid.Row="14" Grid.Column="1" Height="27" Width="120" FontSize="16" FontWeight="Bold">Cancelar</viblendEditors:Button>
+                </Grid>
+            </viblendTabControl:TabItem>
+            <viblendTabControl:TabItem  Text="Datos de la cuenta" Background ="Transparent">
+                <Grid Height="173" Width="410" Margin="5,10,5,30">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="48" />
+                        <RowDefinition Height="41" />
+                        <RowDefinition Height="47" />
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="144*" />
+                        <ColumnDefinition Width="188*" />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left">Contraseña Actual:</TextBlock>
+                    <viblendEditors:PasswordBox Watermark="Contraseña Actual" HorizontalAlignment="Left" Width="220" x:Name="txtContraseñaVieja" Grid.Column="1" Margin="0" VerticalAlignment="Center" Height="23" TextChanged="txtUsuario_TextChanged" />
+                    <TextBlock Grid.Column="0" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center">Nueva contraseña:</TextBlock>
+                    <TextBlock Grid.Column="0" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center">Repite la nueva contraseña:</TextBlock>
+                    <viblendEditors:Button Content="Modificar!!" Grid.Row="3" Grid.ColumnSpan="2" Margin="145,7,128,-7" Name="Registrarme" Click="Registrarme_Click" >
+                        <viblendEditors:Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FF98C6E1" Offset="0.14"/>
+                                <GradientStop Color="#FF6CAED4" Offset="0.375"/>
+                                <GradientStop Color="#FF4599CA" Offset="0.871"/>
+                            </LinearGradientBrush>
+                        </viblendEditors:Button.Background>
+                    </viblendEditors:Button>
+                    <viblendEditors:PasswordBox Grid.Column="1" Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="0" x:Name="txtContraseña" VerticalAlignment="Center" Width="220"  Watermark="Ingrese su contraseña" TextChanged="txtContraseña_TextChanged" />
+                    <viblendEditors:PasswordBox Grid.Column="1" Grid.Row="2" Height="23" HorizontalAlignment="Left" Margin="0,12" Name="txtRContraseña" VerticalAlignment="Center" Width="220" Watermark="Repita su contraseña" TextChanged="txtRContraseña_TextChanged" />
+                </Grid>
+            </viblendTabControl:TabItem>
+            <viblendTabControl:TabItem  Text="Reinicar contraseña" Background ="Transparent">
+                <Grid Height="98" Width="410" Margin="5,16,5,30">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="97" />
+                        <RowDefinition Height="76*" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="144*" />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Width="300" TextWrapping="Wrap">
+                        Al momento de precionar "Truncar contraseña", se le enviara una nueva contraseña a su correo electrónico.
+
+                    </TextBlock>
+                    <viblendEditors:Button Content="Truncar la contraseña!!" Margin="145,57,128,-7" Name="TruncarContraseña" Click="TruncarContraseña_Click"  Height="30">
+                        <viblendEditors:Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FF98C6E1" Offset="0.14"/>
+                                <GradientStop Color="#FF6CAED4" Offset="0.375"/>
+                                <GradientStop Color="#FF4599CA" Offset="0.871"/>
+                            </LinearGradientBrush>
+                        </viblendEditors:Button.Background>
+                    </viblendEditors:Button>
+
+                </Grid>
+            </viblendTabControl:TabItem>
+        </viblendTabControl:TabControl>
+    </Grid>
+</navigation:Page>

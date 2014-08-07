@@ -1,0 +1,1252 @@
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\SubastAutos.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\SubastAutos.pdb
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\AppManifest.xaml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\SubastAutos.xap
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\SubastAutosTestPage.html
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Data.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.DataGrid.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.Editors.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.Extensions.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.Menu.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.NavigationPanes.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.RibbonBar.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.TabControl.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.TreeView.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.Utilities.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Xml.Linq.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Data.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Xml.Linq.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\App.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\AgregarAutomovil.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\Logearse.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\MainPage.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\autosComprados.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\autosDisponibles.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\autosVendidos.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\comprar.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\cuentas.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\misAutos.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\ofertas.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\perfil.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\registrarse.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\subastar.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\inicio.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\logearse.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\SubastAutos.g.resources
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\SubastAutos.Recurso.resources
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\SubastAutos.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\SubastAutos.pdb
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\XapCacheFile.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\detalleDeVehiculo.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\AgregarDetalleEstado.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\AgregarDetalleVehiculo.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\modificarAuto.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\AgregarSubasta.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\modificarPerfil.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\SubastAutos.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\SubastAutos.pdb
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\AppManifest.xaml
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\SubastAutos.xap
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\SubastAutosTestPage.html
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.ServiceModel.Extensions.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.ServiceModel.PollingDuplex.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Windows.Data.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.DataGrid.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.Editors.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.Extensions.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.Menu.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.NavigationPanes.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.RibbonBar.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.TabControl.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.TreeView.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.Utilities.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Xml.Linq.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\System.Xml.Linq.xml
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\App.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\AgregarDetalleEstado.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\AgregarDetalleVehiculo.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\AgregarAutomovil.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\AgregarSubasta.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\Logearse.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\MainPage.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\autosComprados.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\autosDisponibles.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\autosVendidos.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\comprar.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\ofrecerSubasta.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\cuentas.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\detalleDeVehiculo.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\misAutos.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\modificarAuto.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\modificarPerfil.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\ofertas.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\perfil.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\registrarse.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\subastar.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\ParticiparEnSubasta.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\inicio.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\paginas\logearse.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\SubastAutos.g.resources
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\SubastAutos.Recurso.resources
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\SubastAutos.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\SubastAutos.pdb
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastAutos\SubastAutos\obj\Debug\XapCacheFile.xml
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\SubastAutos.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\SubastAutos.pdb
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\AppManifest.xaml
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\SubastAutos.xap
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\SubastAutosTestPage.html
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\System.ServiceModel.Extensions.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\System.ServiceModel.PollingDuplex.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\System.Windows.Data.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.DataGrid.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.Editors.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.Extensions.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.Menu.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.NavigationPanes.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.RibbonBar.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.TabControl.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.TreeView.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\VIBlend.Silverlight.Utilities.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\System.Xml.Linq.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\System.Xml.Linq.xml
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\de\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\es\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\fr\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\it\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ja\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ko\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ru\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\de\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\es\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\fr\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\it\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ja\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ko\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ru\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\App.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\AgregarDetalleEstado.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\AgregarDetalleVehiculo.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\AgregarAutomovil.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\AgregarSubasta.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\Logearse.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\MainPage.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\autosComprados.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\autosDisponibles.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\autosVendidos.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\comprar.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\ofrecerSubasta.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\cuentas.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\detalleDeVehiculo.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\misAutos.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\modificarAuto.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\modificarPerfil.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\ofertas.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\perfil.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\registrarse.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\subastar.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\ParticiparEnSubasta.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\inicio.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\paginas\logearse.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\SubastAutos.g.resources
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\SubastAutos.Recurso.resources
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\SubastAutos.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\SubastAutos.pdb
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\Copia de SubastAutos\SubastAutos\obj\Debug\XapCacheFile.xml
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\SubastAutos.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\SubastAutos.pdb
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\AppManifest.xaml
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\SubastAutos.xap
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\SubastAutosTestPage.html
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.ServiceModel.Extensions.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.ServiceModel.PollingDuplex.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Controls.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Data.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.DataGrid.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.Editors.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.Extensions.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.Menu.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.NavigationPanes.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.RibbonBar.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.TabControl.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.TreeView.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.Utilities.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Xml.Linq.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Xml.Linq.xml
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.ServiceModel.Extensions.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\App.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\AgregarDetalleEstado.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\AgregarDetalleVehiculo.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\AgregarAutomovil.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\AgregarSubasta.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\Logearse.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\MainPage.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\autosComprados.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\autosDisponibles.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\autosVendidos.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\comprar.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\ofrecerSubasta.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\cuentas.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\detalleDeVehiculo.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\misAutos.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\modificarAuto.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\modificarPerfil.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\ofertas.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\perfil.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\registrarse.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\subastar.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\ParticiparEnSubasta.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\inicio.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\logearse.g.i.cs
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\SubastAutos.g.resources
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\SubastAutos.Recurso.resources
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\SubastAutos.dll
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\SubastAutos.pdb
+C:\Documents and Settings\Chicha\Mis documentos\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\XapCacheFile.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\SubastAutos.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\SubastAutos.pdb
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\AppManifest.xaml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\SubastAutos.xap
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\SubastAutosTestPage.html
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.ServiceModel.Extensions.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.ServiceModel.PollingDuplex.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Controls.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Data.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.DataGrid.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.Editors.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.Extensions.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.Menu.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.NavigationPanes.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.RibbonBar.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.TabControl.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.TreeView.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\VIBlend.Silverlight.Utilities.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Xml.Linq.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.ServiceModel.Extensions.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.ServiceModel.PollingDuplex.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Controls.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Windows.Data.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\System.Xml.Linq.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.ServiceModel.Extensions.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.ServiceModel.Extensions.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.ServiceModel.Extensions.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.ServiceModel.Extensions.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.ServiceModel.Extensions.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.ServiceModel.Extensions.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.ServiceModel.Extensions.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.ServiceModel.Extensions.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.ServiceModel.Extensions.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\App.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\AgregarDetalleEstado.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\AgregarDetalleVehiculo.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\AgregarAutomovil.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\AgregarSubasta.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\Logearse.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\MainPage.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\autosComprados.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\autosDisponibles.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\autosVendidos.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\comprar.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\ofrecerSubasta.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\cuentas.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\detalleDeVehiculo.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\misAutos.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\modificarAuto.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\modificarPerfil.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\ofertas.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\perfil.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\registrarse.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\subastar.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\ParticiparEnSubasta.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\inicio.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\paginas\logearse.g.i.cs
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\SubastAutos.g.resources
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\SubastAutos.Recurso.resources
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\SubastAutos.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\SubastAutos.pdb
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\SubastaAutosR\SubastAutos\obj\Debug\XapCacheFile.xml
